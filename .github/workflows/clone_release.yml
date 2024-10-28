@@ -17,4 +17,3 @@ jobs:
           skip_draft: true
           skip_prerelease: true
           copy_assets: true
-          target: true
