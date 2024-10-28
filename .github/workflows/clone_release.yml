@@ -14,3 +14,6 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           src_repo: JackZhang1988/apitune-app
+          skip_draft: true
+          skip_prerelease: true
+          copy_assets: true
