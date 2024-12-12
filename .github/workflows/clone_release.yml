@@ -17,3 +17,5 @@ jobs:
           skip_draft: true
           skip_prerelease: true
           copy_assets: true
+          num_releases: 1
+          dest_branch: main
